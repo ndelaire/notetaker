@@ -15,7 +15,7 @@ This application can be used to write, save, and delete notes. This application 
 
 ## Installation
 
-Clone repo https://github.com/baileymclem/note-taker
+Clone repo 
 
 Install dependencies using "npm i"
 
